@@ -1,0 +1,27 @@
+package main
+
+type Employee struct{
+	FirstName string
+	LastName string
+	Age int
+}
+
+func main(){
+
+	//PascalCase
+	//Eg:- CalculateArea , NewHttpRequest
+	//used for structs,interfaces,Enums
+
+	//snake_case
+	//Eg:- user_id
+	//used for variables,filenames
+
+	//UPPERCASE
+	//used for constants
+
+	//mixedcase
+	//abcDefgHijk
+	//used for external libraries
+
+	const MAXENTRIES = 5
+}

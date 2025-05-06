@@ -1,0 +1,15 @@
+package main
+
+import "fmt"
+
+//always global variable is declared like this not by go for symbol
+var Middlename = "Hassu"
+
+func main() {
+
+	fmt.Println(Middlename)
+
+	Middlename := "heena"
+
+	fmt.Println(Middlename)
+}
