@@ -1,0 +1,22 @@
+Logical operators
+!
+||
+&&
+
+
+bitwise operators
+&
+|
+^   xor
+&^  andNot
+<<  leftshift
+>>  rightshift
+
+
+comparision operators
+==
+!=
+<
+>
+<=
+>=
